@@ -9,6 +9,9 @@ __pycache__/
 module_notes/
 .virtual_documents/
 .ipynb_checkpoints/
+/module_notes
+/.ipynb_checkpoints
+/.virtual_documents
 
 # C extensions
 *.so
