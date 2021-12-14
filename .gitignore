@@ -13,6 +13,9 @@ module_notes/
 /.ipynb_checkpoints
 /.virtual_documents
 
+checkpoints/
+/checkpoints
+
 # C extensions
 *.so
 
